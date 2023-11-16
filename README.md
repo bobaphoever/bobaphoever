@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web3 projects**
 
-- 🌱 I’m currently learning **Next.js, Solidity, TypeScript**
+- 🌱 I’m currently learning **Next.js, Solidity, TypeScript, and React**
 
 - 👯 I’m looking to collaborate on **any blockchain or Web3 related projects**
 
