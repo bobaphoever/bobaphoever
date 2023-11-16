@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any blockchain or Web3 related projects**
 
-- 👨‍💻 All of my projects are available at [bobaphoever.github.io](bobaphoever.github.io)
+- 👨‍💻 All of my projects are available at [bobaphoever.github.io](https://bobaphoever.github.io)
 
 - 📫 How to reach me **yannynguyen@gmail.com**
 
