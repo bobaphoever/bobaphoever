@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BobaPhoEver</h1>
-<h3 align="center">A passionate developer transitioning from the military to the civilian sector soon</h3>
+<h3 align="center">A passionate developer who recently transitioned from the military to the civilian sector</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on **Web3 projects**
